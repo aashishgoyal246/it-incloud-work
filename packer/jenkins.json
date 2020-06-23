@@ -1,15 +1,15 @@
 {
 	"builders": [
         {
-            "access_key": "AKIAZ3LPP4KEDYYUYMF5",
-	    "secret_key": "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",
+            "access_key": "",
+	    "secret_key": "",
             "ami_name": "jenkins-backup",
             "instance_type": "t2.micro",
 	    "source_ami": "ami-0f630a3f40b1eb0b8",
 	    "associate_public_ip_address": "true",
-	    "security_group_id": "sg-0ad1d5b7aa93162bc",
-	    "subnet_id": "subnet-0456221b1c65a9fda",
-	    "vpc_id": "vpc-06f5f18f3a4e4c73f",
+	    "security_group_id": "",
+	    "subnet_id": "",
+	    "vpc_id": "",
             "region": "eu-west-1",
             "ssh_username": "ubuntu",
             "type": "amazon-ebs"
