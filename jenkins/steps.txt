@@ -1,0 +1,8 @@
+Steps to do the operation -
+
+1. clone the repo with (git clone link) and then move to jenkins folder.
+2. Install terraform and awscli on instance by doing (sh install.sh).
+3. Configure aws using command (aws configure).
+4. Then run (terraform init) and then run (ssh-keygen -f aashish-key).
+5. At last do (terraform apply).
+ 

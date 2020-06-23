@@ -1,0 +1,10 @@
+Steps to do all -
+
+1. git clone https://github.com/aashishgoyal246/WFH-Internship.git
+
+2. Go to WFH-Internship/new-jenkins/
+
+3. Do (sh install.sh) and then configure aws - (aws configure) and then (terraform init) then (ssh-keygen -f aashish-key) then
+   (terraform apply)
+
+4. Here the video starts, I am attaching the backup-config and from-s3-config in the folder.
